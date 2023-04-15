@@ -1,0 +1,14 @@
+.FullPageLoader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background: #e0e0e0;
+  perspective: 500px;
+}
+.FullPageLoader h1 {
+  font-size: 5 rem;
+  font-weight: 600;
+  color: #36d7b7;
+}
